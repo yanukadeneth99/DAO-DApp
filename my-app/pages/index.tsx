@@ -16,7 +16,7 @@ const Home: NextPage = () => {
   const [owner, setOwner] = useState(false);
   const [treasuryBalance, setTreasuryBalance] = useState<string>("");
   const [numProposals, setNumProposals] = useState("0");
-  const [proposals, setProposals] = useState([]);
+  const [proposals, setProposals] = useState<any[]>([]);
   const [nftBalance, setNftBalance] = useState<number>(0);
   const [fakeNftTokenId, setfakeNftTokenId] = useState("");
   const [selectedTab, setSelectedTab] = useState("");
