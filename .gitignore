@@ -1,0 +1,48 @@
+/hardhat/node_modules
+/hardhat/.env
+/hardhat/coverage
+/hardhat/coverage.json
+/hardhat/typechain
+/hardhat/typechain-types
+
+#Hardhat files
+/hardhat/cache
+/hardhat/artifacts
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/my-app/node_modules
+/my-app/.pnp
+/my-app/.pnp.js
+
+# testing
+/my-app/coverage
+
+# next.js
+/my-app/.next/
+/my-app/out/
+
+# production
+/my-app/build
+
+# misc
+/my-app/.DS_Store
+/my-app/*.pem
+
+# debug
+/my-app/npm-debug.log*
+/my-app/yarn-debug.log*
+/my-app/yarn-error.log*
+/my-app/.pnpm-debug.log*
+
+# local env files
+/my-app/.env*.local
+
+# vercel
+/my-app/.vercel
+
+# typescript
+/my-app/*.tsbuildinfo
+
+
