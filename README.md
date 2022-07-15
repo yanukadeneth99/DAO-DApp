@@ -13,6 +13,14 @@
 - NFT Memes Contract Address (Rinkeby) - [0xdc21051f91E12Be362cE5f383d796BFCF810692e](https://rinkeby.etherscan.io/address/0xdc21051f91E12Be362cE5f383d796BFCF810692e)
 - Whitelist Contract Address (Rinkeby) - [0x858C0cD0A4e3c1bc1721C8C7710C29b6cF8A21FE](https://rinkeby.etherscan.io/address/0x858c0cd0a4e3c1bc1721c8c7710c29b6cf8a21fe)
 
+## Initial Page
+
+![InitialPage](https://i.imgur.com/8L0Jpza.png "InitialPage")
+
+## Proposals
+
+![Proposals](https://i.imgur.com/P0igiwb.png "Proposals")
+
 ## Setup
 
 1. Pull the project
